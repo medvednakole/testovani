@@ -1,0 +1,8 @@
+class hello{
+
+    private $greetings = "hello!";
+
+    public sayHello(){
+        echo $this->greetings;
+    }
+}
